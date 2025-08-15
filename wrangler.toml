@@ -13,7 +13,7 @@ d1_databases = [
 ]
 
 # Pages functions
-pages_build_output_dir = "dist"
+pages_build_output_dir = "dist/public"
 
 # Build command for Pages
 [build]
